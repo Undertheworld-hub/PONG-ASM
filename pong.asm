@@ -1,4 +1,3 @@
-	.file	"pong.c"
 	.text
 	.globl	ball_x
 	.data
